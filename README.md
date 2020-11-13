@@ -3,6 +3,9 @@
 
 집에가고싶다
 
+# 我很想回家
+已经两年过了！很想回家！想我爸爸妈妈！想我妹妹！
+
 # I want to go home
 In this repository, you can appeal your desire to go home in all kinds of languages(programming languages, human languages, animal languages, etc.).
 
